@@ -42,3 +42,7 @@ The system provides:
 ---
 
 > **Repository Notice:** This repository is retained to maintain compatibility with previously shared project links. The latest source code is maintained in the new repository linked above.
+
+## 🔗 Project Links UI
+
+https://cdac-project-pgcp-ac-015.github.io/AI-POWERED-CAREER-GUIDANCE-SYSTEM-FORSTUDENTS/
